@@ -1,4 +1,4 @@
-Ext.onReady(function(){
+﻿Ext.onReady(function(){
 new Ext.Panel({
 renderTo:"hello",
 title:" 面板头部 header",
